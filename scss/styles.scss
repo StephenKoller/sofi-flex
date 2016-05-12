@@ -64,15 +64,18 @@ body {
 .primary {
   width: 250px;
   height: 100%;
+  background-color: red;
 }
 
 .content {
   flex: 1;
+  background-color: blue;
 }
 
 .secondary {
   width: 250px;
   height: 100%;
+  background-color: green;
 }
 
 footer {
